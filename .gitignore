@@ -1,0 +1,14 @@
+# Ignorowanie plików kompilacji
+*.class
+
+# Ignorowanie katalogów generowanych przez IDE (np. Eclipse, IntelliJ)
+bin/
+build/
+
+# Ignorowanie plików systemowych
+.DS_Store
+Thumbs.db
+
+# Ignorowanie logów
+*.log
+
